@@ -4,7 +4,7 @@ Here's a list of things good for you to do your first few days at Kajabi.
 The list also helps us keep track of getting you up and running.
 
 * Join us for your first daily standup!  It's typically around 9:30am.
-* Get your user@kajabi.com email setup.  Kenny (TODO: or Amber?) can do this.
+* Get your user@kajabi.com email setup.  Kenny can do this.
 * Get added to our organization on GitHub and the Kajabi Core Team.  We will use the
   GitHub user you prefer and don't need to create a new one for you.
 * Pull the Kajabi/kajabi-products branch and get it up and running.  If you have
