@@ -1,6 +1,6 @@
 # Ruby Style Guide
 
-This is a brand new work in progress.  Do not rely on this yet.
+This is a brand new work in progress.
 
 Based on [Chris Neukirchen's Ruby Style
 Guide](http://github.com/chneukirchen/styleguide/).
