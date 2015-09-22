@@ -9,6 +9,7 @@ features using git and GitHub. Note these are strong guidelines, but rarely
 * Assign an issue to yourself if you want to work on it.
 * Prefer tasks with an upcoming milestone if possible.
 * When you start working on the task, apply the "in progress" label.
+* If an issue is a bug, apply the "bug" label.
 * Open a pull request when your task is ready, or if you have made substantial
   progress and want some early feedback.
 * When your feature is ready for a full review and you are looking for it to merge
