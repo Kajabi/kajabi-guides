@@ -18,6 +18,8 @@ The list also helps us keep track of getting you up and running.
 * Get added as a collaborator to our Heroku applications.
 * Test that you have `heroku console` access to our applications.  Ask another developer
   for the list to try.
+* Get added to honeybadger.io for exception monitoring
+* Get added on SemaphoreApp test run reporting
 * Read the other guides here.
 * Get your first feature from GitHub issues.  We'll help you to hopefully get your code
   in production your first week.  Satisfaction!
