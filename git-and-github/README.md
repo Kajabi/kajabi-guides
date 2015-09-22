@@ -1,4 +1,4 @@
-# kajabi-github-flow
+# Kajabi Git & GitHub Flow
 
 The following are some guidelines for how developers at Kajabi work on new
 features using git and GitHub. Note these are strong guidelines, but rarely
