@@ -5,6 +5,7 @@ The list also helps us keep track of getting you up and running.
 
 * Join us for your first daily standup!  It's typically around 9:30am.
 * Get your user@kajabi.com email access.  Jonathan can provide this.
+* Check your Kajabi mail. It will contain logins for payroll, HR, etc, systems.
 * Ensure you have Two Factor Authentication (2FA) enabled on your GitHub account.
 * Get added to our organization on GitHub and the Kajabi Core Team.  We will use the
   GitHub user you prefer and don't need to create a new one for you.
