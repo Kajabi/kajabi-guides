@@ -1,4 +1,4 @@
-# Gettings started as a developer at Kajabi
+# Getting started as a developer at Kajabi
 
 Here's a list of things good for you to do your first few days at Kajabi.
 The list also helps us keep track of getting you up and running.
