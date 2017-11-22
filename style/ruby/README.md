@@ -90,8 +90,6 @@ Guide](http://github.com/chneukirchen/styleguide/).
 
 * Avoid superfluous comments.
 
-* Use yardoc formatting if you are making API comments.
-
 ## Misc:
 
 * Prefer writing methods that are less than 10 lines.
