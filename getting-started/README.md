@@ -3,7 +3,7 @@
 Here's a list of things good for you to do your first few days at Kajabi.
 The list also helps us keep track of getting you up and running.
 
-* Join us for your first daily standup!  It's typically around 9:30am.
+* Join us for your first daily standup!  It's typically around 9:15am.
 * Get your user@kajabi.com email access.  Jonathan can provide this.
 * Check your Kajabi mail. It will contain logins for payroll, HR, etc, systems.
 * Ensure you have Two Factor Authentication (2FA) enabled on your GitHub account.
