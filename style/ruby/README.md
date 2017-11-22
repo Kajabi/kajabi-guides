@@ -106,6 +106,8 @@ Guide](http://github.com/chneukirchen/styleguide/).
 
 * Avoid `unless` `else` conditional pairings.
 
+* Organize methods logically, not alphabetically (`#publish` and `#unpublish` as siblings)
+
 ## General:
 
 * Do not mutate arguments unless that is the purpose of the method.
