@@ -44,6 +44,8 @@ Having Your Code Reviewed
 Reviewing Code
 --------------
 
+* Adopt a mindset that you are as responsible for the code as a reviewer and
+  maintainer, as the author of the code.
 * Identify ways to simplify the code while still solving the problem.
 * Offer alternative implementations, but assume the author already considered
   them. ("What do you think about using a custom validator here?").
