@@ -63,5 +63,8 @@ Reviewing Code
 * ENV flags that may have been added by the feature.
 * Check if the db/schema.rb file looks proper, or if anything snuck in from an
   unrelated feature branch.
+* After reviewing the code, manually test the code in the browser, console, or
+  background job as applicable. If this is challenging, consider sitting down
+  with the author, and have them give you a Q&A style demo.
 * Sign off on the pull request with a :+1:, remove the `in progress` label and
   apply a `thumbsup` label
