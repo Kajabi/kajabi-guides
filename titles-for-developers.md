@@ -28,6 +28,9 @@ time for you to move you to that from a Junior Developer".
 * Follows established patterns and approaches within existing code bases with ease.
 * Great understanding of Ruby and Rails environments. Capable of mining source code when required.
 * Can provide feedback and training on the work of junior developers.
+* Capable of architecting and operating systems of medium complexity 
+* Ability to understand and operate interesting systems not provided by a framework (understand redis
+  data and commands, and build trivial systems on top of it) or framework provided but less used (caching)
 * Capable of executing projects across multiple domains (say, web app that needs an API backend).
 * Capable of handling customer support, maintenance, and application operational issues with little
   assistance.
@@ -39,6 +42,9 @@ time for you to move you to that from a Junior Developer".
 * Expected to run and direct small teams for project cycles.
 * Deep understanding of Ruby and Rails environments
 * Expected to provide feedback an assist with the development of junior developers and developers.
+* Fully capable of architecting and operating novel systems (design entire billings systems)
+* Ability to architect novel system on top of technology not provided by a framework (building a distributed
+  id mapping system on top of redis, building queueing)
 * Could handle an operation disaster recovery situation solo.
 * Helps set and maintain professional standards for the entire organization.
 * Expected to routinely interface with other departments and leaders in company, as well as other vendors,
