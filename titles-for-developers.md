@@ -24,7 +24,7 @@ time for you to move you to that from a Junior Developer".
 
 ## Developer
 
-* Capable of running and direct small teams for project cycles as substitutes for leads.
+* Capable of running and directing small teams for project cycles as substitutes for leads.
 * Follows established patterns and approaches within existing code bases with ease.
 * Great understanding of Ruby and Rails environments. Capable of mining source code when required.
 * Can provide feedback and training on the work of junior developers.
