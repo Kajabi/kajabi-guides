@@ -1,4 +1,4 @@
-# Titles for programmers
+# Titles for developers
 
 ## Note, this is currently WIP
 
@@ -20,7 +20,7 @@ time for you to move you to that from a Junior Developer".
   of basic MVC, ActiveRecord, etc.
 * Occasional issues following patterns and approaches within existing code bases.
 * Able to handle routine customer support and maintenance backend issues, may need help at times.
-* Usually less than 3 years of experience being a professional programmer in the specific domain.
+* Usually less than 3 years of experience being a professional developer in SaaS web applications.
 
 ## Developer
 
@@ -32,7 +32,7 @@ time for you to move you to that from a Junior Developer".
 * Capable of handling customer support, maintenance, and application operational issues with little
   assistance.
 * Able to interface with other departments and leaders in company, as well as other vendors, at times when required.
-* Usually at least 3-7 years of experience being a professional programmer in the specific domain.
+* Usually at least 3-7 years of experience being a professional developer in SaaS web applications.
 
 ## Lead Developer
 
@@ -43,4 +43,4 @@ time for you to move you to that from a Junior Developer".
 * Helps set and maintain professional standards for the entire organization.
 * Expected to routinely interface with other departments and leaders in company, as well as other vendors,
   at a high level with little assistance.
-* Usually at least 7 years of experience being a professional developer in the specific domain.
+* Usually at least 7 years of experience being a professional developer in Saas web applications.
