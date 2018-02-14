@@ -39,8 +39,8 @@ time for you to move you to that from a Junior Developer".
 
 * Expected to run and direct small teams for project cycles.
 * Deep understanding of Ruby and Rails environments
-* Expected to provide feedback an assist with the development of junior developers and developers.
-* Fully capable to architect novel system on top of technology not provided by a framework (ex: building a distributed
+* Expected to provide feedback and assist with the development of junior developers and developers.
+* Fully capable to architect novel systems on top of technology not provided by a framework (ex: building a distributed
   id mapping system on top of redis, building queueing sytems, building a billing system)
 * Could handle an operation disaster recovery situation solo.
 * Helps set and maintain professional standards for the entire organization.
