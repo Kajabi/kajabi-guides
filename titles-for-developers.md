@@ -6,7 +6,8 @@ They are a guidance to having an individualized discussion about career progress
 
 It should also be noted that these criteria chiefly examine the scope of work someone is
 capable of tackling independently. In addition to that assessment, we also look at the
-quality of the execution itself.
+quality of the execution itself. Additionally, time frames listed here are not considered
+a requirement or guarantee, it is ok for individual progress to vary.
 
 Progression of these levels is usually achieved after reaching the level. We tend to
 have discussions like "you are meeting the requirements of a Developer now, so it is
